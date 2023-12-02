@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADEL AZZI</h1>
 <h3 align="center">Code, Coffee, Flutter | Computer Science Student 🚀</h3>
 
+![1_zVnWJtyGOX_kUIDm6ccCfQ](https://github.com/adelazzi/adelazzi/assets/93773381/7a9c7a3e-17a8-4040-8c62-92fdbb7d27e3)
 
 
 <h3 align="left">Connect with me:</h3>
