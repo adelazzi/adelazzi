@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="[https://linkedin.com/in/ashutosh mishra](https://www.linkedin.com/in/azzi-adel-2086aa260?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2f%2FfakfuSC6A5hRvug5T7g%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/azzi-adel-2086aa260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 
 
 <p align="left">
