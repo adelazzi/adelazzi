@@ -90,6 +90,11 @@
   <img src="https://komarev.com/ghpvc/?username=adelazzi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
+
+<img src="https://metrics.lecoq.io/adelazzi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&stars.limit=4&config.timezone=UTC" alt="Detailed GitHub Metrics">
+
+
+
 <!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating your contributions" />
