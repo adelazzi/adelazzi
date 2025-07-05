@@ -31,6 +31,8 @@
   <a href="https://linkedin.com/in/azzi-adel-2086aa260" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <br><br>
+  📂 <a href="https://adelazzi.github.io/My_Portfolio/" target="_blank"><strong>My Portfolio</strong></a>
 </p>
 
 <!-- Skills Section -->
