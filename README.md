@@ -71,7 +71,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/azzi-adel-2086aa260" target="_blank">
+  <a href="https://www.linkedin.com/in/adel-azzi-99649933b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:adel.azzi@example.com" target="_blank">
