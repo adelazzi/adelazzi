@@ -1,12 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I%27m+ADEL+AZZI+%F0%9F%91%8B;Welcome+to+my+Coding+Universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I%27m+ADEL+AZZI+%F0%9F%91%8B;Full-Stack+Developer;Big+Data+Enthusiast;Welcome+to+my+Digital+Universe!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  🎓 Computer Science Student | 💻 Flutter Enthusiast | ☕ Fueled by Coffee
-</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓-Computer_Science_Student-blue?style=for-the-badge" alt="Student"/>
+  <img src="https://img.shields.io/badge/💻-Flutter_Developer-02569B?style=for-the-badge&logo=flutter" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/📊-Big_Data_Engineer-orange?style=for-the-badge" alt="Big Data"/>
+  <img src="https://img.shields.io/badge/☕-Coffee_Lover-brown?style=for-the-badge" alt="Coffee"/>
+</div>
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" alt="Header"/>
+</div>
 
 <!-- Profile Banner -->
 <div align="center">
@@ -15,21 +20,42 @@
 
 <!-- About Me Section -->
 <div align="left">
-  <h3>🚀 About Me</h3>
+  <h2>🚀 About Me</h2>
   
-  - 🌱 Currently exploring the world of **Big Data & Mobile Development**
-  - 💡 Love turning coffee into code
-  - 🎯 Goal: Contributing to innovative tech solutions
-  - ⚡ Fun fact: I debug code faster with coffee!
+  ```typescript
+  const adel = {
+    name: "Adel Azzi",
+    title: "Full-Stack Developer & Big Data Engineer",
+    location: "Algeria 🇩🇿",
+    currentFocus: ["Mobile Development", "Big Data Analytics", "Cloud Technologies"],
+    askMeAbout: ["Flutter", "Python", "Big Data", "System Design"],
+    technologies: {
+      mobile: ["Flutter", "Dart"],
+      backend: ["Python", "Django", "Java"],
+      bigData: ["Hadoop", "Hive", "Apache Spark"],
+      databases: ["MongoDB", "MySQL", "PostgreSQL"],
+      cloud: ["Microsoft Azure", "AWS"],
+      tools: ["Git", "Docker", "Linux", "Figma"]
+    },
+    currentlyLearning: "Advanced Big Data Processing & Cloud Architecture",
+    funFact: "I debug code faster with coffee ☕ and turn ideas into reality 🚀"
+  };
+  ```
 </div>
 
 <br>
 
 <!-- Connect With Me -->
 <h3>🤝 Let's Connect!</h3>
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/azzi-adel-2086aa260" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adel.azzi@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://adelazzi.github.io/My_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -73,16 +99,22 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adelazzi&theme=tokyonight" alt="GitHub Streak">
-</p>
+<!-- GitHub Stats & Activity -->
+<h2>📊 GitHub Analytics</h2>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adelazzi&theme=tokyonight" alt="GitHub Streak">
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adelazzi&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%"/>
+</div>
 
 
 <!-- Profile Views -->
@@ -92,5 +124,27 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating your contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="Footer"/>
+</div>
+
+<!-- Portfolio Call to Action -->
+<div align="center">
+  <h2>🎯 Want to see my work in action?</h2>
+  <p>Check out my interactive portfolio for a deeper dive into my projects and skills!</p>
+  
+  <a href="https://adelazzi.github.io/My_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF6B35?style=for-the-badge&logoColor=white&labelColor=FF6B35" alt="Portfolio" height="50"/>
+  </a>
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime!" alt="Footer Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  Made with ❤️ by <strong>Adel Azzi</strong>
+  <br>
+  <sub>© 2024 - Let's connect and create something extraordinary!</sub>
 </div>
