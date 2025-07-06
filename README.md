@@ -13,10 +13,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Header"/>
 </div>
 
-<!-- About Me Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" align="right" alt="coding">
-</div>
 
 <div align="left">
   <h2 align="center">
