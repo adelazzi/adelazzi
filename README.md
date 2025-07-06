@@ -37,8 +37,8 @@
         mobile: ["Flutter 💙", "Dart 🎯"],
         backend: ["Python 🐍", "Django 🌿", "Java ☕"],
         bigData: ["Hadoop 🐘", "Hive 🍯", "Apache Spark ⚡"],
-        databases: ["MongoDB 🍃", "MySQL 🐬", "PostgreSQL 🐘"],
-        cloud: ["Microsoft Azure ☁️", "AWS 🔶"],
+        databases: ["MongoDB 🍃", "MySQL 🐬"],
+        cloud: ["Microsoft Azure ☁️"],
         tools: ["Git 🌿", "Docker 🐳", "Linux 🐧", "Figma 🎨"]
       };
     }
