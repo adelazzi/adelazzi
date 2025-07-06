@@ -183,10 +183,7 @@
 
 <br>
 
-<!-- Coding Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adelazzi&theme=tokyonight&border_radius=20&border_color=58A6FF" alt="WakaTime Stats"/>
-</div>
+
 
 
 <!-- Profile Views -->
