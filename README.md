@@ -83,6 +83,8 @@
   <a href="https://github.com/adelazzi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
+  <br><br>
+  📂 <a href="https://adelazzi.github.io/My_Portfolio/" target="_blank"><strong>My Portfolio</strong></a>
 </p>
 
 <!-- Skills Section -->
