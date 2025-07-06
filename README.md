@@ -229,11 +229,6 @@
   <sub>© 2024 - Let's connect and create something extraordinary! 🌟</sub>
 </div>
 
-<!-- Visitor Count Animation -->
-<div align="center">
-  <br>
-  <img src="https://count.getloli.com/get/@adelazzi?theme=moebooru" alt="Visitor Count"/>
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
