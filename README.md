@@ -236,8 +236,6 @@ Distributed Data Platforms
 
 # 🤝 Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/adel-azzi-99649933b/
 
 GitHub:
 https://github.com/adelazzi
