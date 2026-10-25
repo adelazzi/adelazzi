@@ -1,254 +1,117 @@
-# 👋 Hi, I'm Adel Azzi
+<div align="center">
 
-## Flutter Developer → Data Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adel+Azzi+%F0%9F%91%8B;Flutter+Developer+%7C+Backend+Engineer;Building+toward+Data+Engineering" alt="Typing intro" />
 
-I am a Software Engineer specializing in **Flutter mobile development** and **backend systems**, currently expanding my expertise toward **Data Engineering and distributed data processing**.
+**Software Engineer** crafting production mobile apps with **Flutter & Django**,<br/>
+and engineering my way into **scalable data systems** through an HPC background.
 
-I build production-ready applications with **Flutter & Django**, and I am developing strong foundations in **Big Data technologies, data pipelines, and scalable systems** through my High Performance Computing background.
-
-> Building reliable software today, engineering scalable data systems tomorrow.
-
----
-
-## 🚀 About Me
-
-🎓 Master's Student in **High Performance Computing (HPC)**  
-💻 Flutter Developer with experience building real-world applications  
-🐍 Backend development with Django REST Framework  
-📊 Transitioning toward Data Engineering and Big Data ecosystems  
-☁️ Interested in distributed systems, cloud technologies, and scalable architectures
-
-Currently focusing on:
-
-- Data Engineering fundamentals
-- Apache Spark ecosystem
-- Distributed data processing
-- Data pipelines
-- Cloud-based architectures
-
----
-
-# 💼 Experience
-
-## Flutter Developer
-
-### Freelance Software Engineer
-
-**2023 - Present**
-
-- Developed production mobile applications using Flutter and Dart
-- Designed responsive and scalable user interfaces
-- Integrated REST APIs and backend services
-- Implemented state management solutions
-- Collaborated with backend developers to deliver complete products
-
----
-
-## Full-Stack Developer
-
-### Hoska Dev
-
-**2023 - 2025**
-
-Responsibilities:
-
-- Built Flutter mobile applications
-- Integrated Django REST APIs
-- Worked on UI/UX implementation from Figma designs
-- Managed application data workflows
-- Improved application performance and user experience
-
----
-
-# 🛠️ Technical Skills
-
-## Mobile Development
-
-<div>
-
-Flutter • Dart • GetX • BLoC • Responsive UI • Firebase
+<a href="https://adelazzi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/adelazzi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- Add your LinkedIn / email here -->
+<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 </div>
 
 ---
 
-## Backend Development
+### 🧭 About Me
 
-Python • Django • Django REST Framework
+```dart
+class AdelAzzi {
+  final role       = "Flutter Developer → Data Engineer";
+  final experience = "Production mobile apps shipped to real users";
+  final education  = "M1 High Performance Computing @ USTHB (ranked 3rd)";
+  final author     = "First Step in Data Mining (2025)";
+  final languages  = ["Arabic", "French", "English", "Russian"];
+  final learning   = ["Apache Spark", "Data Pipelines", "Distributed Systems", "Cloud"];
+}
+```
 
-REST APIs • Authentication • PostgreSQL
-
----
-
-## Data Engineering (Learning Path)
-
-Python Data Stack:
-
-- Pandas
-- NumPy
-- Scikit-learn
-
-Big Data:
-
-- Apache Spark
-- Hadoop
-- Hive
-
-Concepts:
-
-- ETL Pipelines
-- Data Processing
-- Distributed Computing
-- Data Warehousing
+> *Building reliable software today, engineering scalable data systems tomorrow.*
 
 ---
 
-## Tools & Infrastructure
+### 🛠️ Tech Stack
 
-- Git
-- Docker
-- Linux
-- PostgreSQL
-- Azure fundamentals
+<div align="center">
 
----
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma" />
 
-# 📱 Featured Projects
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres" />
 
-## 🎓 School Management Platform
+**Data & HPC**<br/>
+<img src="https://skillicons.dev/icons?i=hadoop,c,cpp" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
-**Flutter + Django REST Framework**
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,azure" />
 
-A complete educational platform designed to manage students, teachers, and administrative workflows.
-
-Features:
-
-- Mobile application
-- Backend API
-- User management
-- Data organization
+</div>
 
 ---
 
-## 🚚 Delivery Optimization System
+### 💼 Experience
 
-**Flutter + Django + Dijkstra Algorithm**
+**Full-Stack Developer — Hoska Dev** · *2023 – 2025*
+- Shipped production Flutter apps including **Faz**, **GIMDZ**, and **Eswing / Olivia**
+- Integrated Django REST APIs and implemented pixel-accurate UIs from Figma
+- Improved app performance, state management (GetX / BLoC), and data workflows
 
-A logistics application focused on finding optimized delivery routes.
-
-Technologies:
-
-- Flutter frontend
-- Django backend
-- Graph algorithms
-- Route optimization
+**Freelance Software Engineer** · *2023 – Present*
+- End-to-end mobile products: UI, state management, REST integration, delivery
+- Close collaboration with backend teams to ship complete, maintainable products
 
 ---
 
-## 💰 Financial Management Platform
+### 🚀 Featured Projects
 
-**Flutter + Django**
-
-A financial application designed for managing transactions and user financial activities.
-
----
-
-## 📊 Big Data & Analytics Projects
-
-Exploring:
-
-- Large-scale data processing
-- Data cleaning
-- Analytics workflows
-- Distributed computing
+| Project | Stack | Highlights |
+|---|---|---|
+| 🎓 **School Management Platform** | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
+| 🚚 **Delivery Optimization System** | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
+| 💰 **Financial Management Platform** | Flutter · Django | Transaction tracking and financial activity management |
+| 📊 **Big Data & Analytics** | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
 
 ---
 
-# 🎓 Education
+### 🎓 Education & Publication
 
-## Master 1 - High Performance Computing
-
-**University of Science and Technology Houari Boumediene (USTHB)**
-
-2024 - 2025
-
-Focus areas:
-
-- Parallel Computing
-- Distributed Systems
-- Hadoop
-- Spark
-- RISC-V Architecture
-
-
-## Bachelor Degree in Computer Science
-
-**USTHB**
-
-2020 - 2024
+- **M1 High Performance Computing** — USTHB · *2024 – 2025* · ranked 3rd in class<br/>
+  <sub>Parallel computing · Distributed systems · Hadoop · Spark · RISC-V</sub>
+- **B.Sc. Computer Science** — USTHB · *2020 – 2024*
+- 📚 **Author of *First Step in Data Mining*** — Leanpub, 2025 <!-- add book link -->
 
 ---
 
-# 📚 Publication
-
-## First Step in Data Mining
-
-Author: Adel Azzi
-
-Published: 2025
-
-A beginner-friendly introduction to data mining concepts.
-
----
-
-# 📈 Current Learning Journey
+### 📈 Roadmap
 
 ```
-Flutter Developer
-        |
-        ↓
-Backend & APIs
-        |
-        ↓
-Python Data Engineering
-        |
-        ↓
-Big Data Systems
-        |
-        ↓
-Distributed Data Platforms
+Flutter ──► Backend & APIs ──► Python Data Engineering ──► Big Data ──► Distributed Data Platforms
+   ✅              ✅                    🔄                     🔄                  🎯
 ```
 
 ---
 
-# 📊 GitHub Statistics
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=adelazzi&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-# 🤝 Connect With Me
+<div align="center">
 
+**Open to:** Flutter Development · Full-Stack Roles · Junior Data Engineering · Big Data Projects
 
-GitHub:
-https://github.com/adelazzi
+⭐ *Feel free to explore my repos and reach out!*
 
-Portfolio:
-https://adelazzi.github.io/My_Portfolio/
-
-
----
-
-⭐ Open to opportunities in:
-
-- Flutter Development
-- Full-Stack Development
-- Junior Data Engineering
-- Big Data Projects
+</div>
