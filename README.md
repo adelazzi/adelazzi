@@ -63,12 +63,13 @@ class AdelAzzi {
 ### 💼 Experience
 
 **Full-Stack Developer — Hoska Dev** · *2023 – 2025*
-- Shipped production Flutter apps: **Faz**, **GIMDZ**, **Eswing / Olivia**
+- Shipped production Flutter apps including **Faz** and **Eswing / Olivia**
 - Integrated Django REST APIs and implemented pixel-accurate UIs from Figma
 - Managed and cleaned app data: validating, deduplicating, and structuring datasets for the Django backends
 - Improved app performance, state management (GetX / BLoC), and data workflows
 
 **Freelance Software Engineer** · *2023 – Present*
+- Built the **GIMDZ** banking MVP end-to-end for a client
 - End-to-end mobile products: UI, state management, REST integration, delivery
 - Close collaboration with backend teams to ship complete, maintainable products
 
@@ -81,10 +82,10 @@ class AdelAzzi {
 <td width="50%" valign="top">
 
 #### 💳 DH Pay
-**Fintech mobile app** · Flutter · GetX · Django
+**Digital products marketplace** · Flutter · GetX · Django
 
+- Buy digital products with **dynamic purchase forms** per product
 - Wallet flows: **top-up, send money, QR payments**
-- Digital product store with dynamic purchase forms
 - Admin dashboard for product & order management
 - Performance work: smooth animations, image optimization, local caching
 
@@ -93,15 +94,29 @@ class AdelAzzi {
 </td>
 <td width="50%" valign="top">
 
-#### 📱 GIMDZ
-**Production mobile app** · Flutter · Django REST
+#### 🏦 GIMDZ
+**Banking & finance MVP** · Flutter
 
-- Shipped to real users at **Hoska Dev**
-- Pixel-accurate UI implemented from Figma
-- REST API integration and state management
-- <!-- add 1–2 key features of GIMDZ here -->
+- **Link multiple bank accounts** in one app
+- Personal **finance management** across all accounts
+- Full mobile MVP built end-to-end for a client
+- Frontend MVP, structured for future bank API integration
 
-<sub>🔒 Private company project</sub>
+<sub>🔒 Private client project</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🍔 SnapEats
+**Food delivery platform — 2 apps** · Flutter · for a French company
+
+- **Client app:** browse restaurants and order food
+- **Partner app:** order management for restaurants and delivery
+- Flutter developer on a team, working with a dedicated backend developer
+
+<sub>🔒 Private client project</sub>
 
 </td>
 </tr>
@@ -115,7 +130,6 @@ class AdelAzzi {
 |---|---|---|
 | 🎓 **School Management Platform** 🔒 | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
 | 🚚 **Delivery Optimization System** 🔒 | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
-| 💰 **Financial Management Platform** 🔒 | Flutter · Django | Transaction tracking and financial activity management |
 | 📊 **Big Data & Analytics** 🔒 | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
 | 📚 **[Data Mining Book Code](https://github.com/adelazzi/data-mining-codes-for-book)** | Python · scikit-learn | Companion code for *First Step in Data Mining* |
 
