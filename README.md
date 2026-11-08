@@ -1,26 +1,56 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi%2C+I%27m+ADEL+AZZI+%F0%9F%91%8B;Welcome+to+my+Coding+Universe!" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adel+Azzi+%F0%9F%91%8B;Flutter+Developer+%7C+Backend+Engineer;Building+toward+Data+Engineering" alt="Typing intro" />
+
+**Software Engineer** crafting production mobile apps with **Flutter & Django**,<br/>
+and engineering my way into **scalable data systems** through an HPC background.
+
+<a href="https://adelazzi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/adelazzi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- Add your LinkedIn / email here -->
+<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+
 </div>
 
-<h3 align="center">
-  🎓 Computer Science Student | 💻 Flutter Enthusiast | ☕ Fueled by Coffee
-</h3>
+---
 
-<br>
+### 🧭 About Me
 
-<!-- Profile Banner -->
+```dart
+class AdelAzzi {
+  final role       = "Flutter Developer → Data Engineer";
+  final experience = "Production mobile apps shipped to real users";
+  final education  = "M1 High Performance Computing @ USTHB (ranked 3rd)";
+  final author     = "First Step in Data Mining (2025)";
+  final languages  = ["Arabic", "French", "English", "Russian"];
+  final learning   = ["Apache Spark", "Data Pipelines", "Distributed Systems", "Cloud"];
+}
+```
+
+> *Building reliable software today, engineering scalable data systems tomorrow.*
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" align="right" alt="coding">
-</div>
 
-<!-- About Me Section -->
-<div align="left">
-  <h3>🚀 About Me</h3>
-  
-  - 🌱 Currently exploring the world of **Big Data & Mobile Development**
-  - 💡 Love turning coffee into code
-  - 🎯 Goal: Contributing to innovative tech solutions
-  - ⚡ Fun fact: I debug code faster with coffee!
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres" />
+
+**Data & HPC**<br/>
+<img src="https://skillicons.dev/icons?i=hadoop,c,cpp" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,azure" />
+
 </div>
 
 <br>
@@ -89,10 +119,18 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adelazzi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=adelazzi&theme=tokyonight&hide_border=true" />
 </div>
 
-<!-- Footer -->
+---
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake eating your contributions" />
+
+**Open to:** Flutter Development · Full-Stack Roles · Junior Data Engineering · Big Data Projects
+
+⭐ *Feel free to explore my repos and reach out!*
+
 </div>
