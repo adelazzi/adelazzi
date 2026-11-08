@@ -10,7 +10,7 @@ and engineering my way into **scalable data systems** through an HPC background.
 <a href="https://adelazzi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR-LEANPUB-LINK"><img src="https://img.shields.io/badge/My%20Book-Leanpub-1F2937?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
+<a href="https://leanpub.com/first_step_in_data_mining"><img src="https://img.shields.io/badge/My%20Book-Leanpub-1F2937?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 </div>
 
@@ -143,7 +143,7 @@ class AdelAzzi {
 - **M1 High Performance Computing** — USTHB · *2024 – 2025* · ranked 3rd in class<br/>
   <sub>Parallel computing · Distributed systems · Hadoop · Spark · RISC-V</sub>
 - **B.Sc. Computer Science** — USTHB · *2020 – 2024*
-- 📚 **Author of [*First Step in Data Mining*](YOUR-LEANPUB-LINK)** — Leanpub, 2025
+- 📚 **Author of [*First Step in Data Mining*](https://leanpub.com/first_step_in_data_mining)** — Leanpub, 2025
 
 ---
 
