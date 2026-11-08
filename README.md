@@ -63,7 +63,7 @@ class AdelAzzi {
 ### 💼 Experience
 
 **Full-Stack Developer — Hoska Dev** · *2023 – 2025*
-- Shipped production Flutter apps: **[Faz](STORE-LINK)**, **[GIMDZ](STORE-LINK)**, **[Eswing / Olivia](STORE-LINK)**
+- Shipped production Flutter apps: **Faz**, **GIMDZ**, **Eswing / Olivia**
 - Integrated Django REST APIs and implemented pixel-accurate UIs from Figma
 - Improved app performance, state management (GetX / BLoC), and data workflows
 
@@ -77,11 +77,13 @@ class AdelAzzi {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🎓 **[School Management Platform](https://github.com/adelazzi/REPO-NAME)** | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
-| 🚚 **[Delivery Optimization System](https://github.com/adelazzi/REPO-NAME)** | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
-| 💰 **[Financial Management Platform](https://github.com/adelazzi/REPO-NAME)** | Flutter · Django | Transaction tracking and financial activity management |
-| 📊 **[Big Data & Analytics](https://github.com/adelazzi/REPO-NAME)** | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
+| 🎓 **School Management Platform** 🔒 | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
+| 🚚 **Delivery Optimization System** 🔒 | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
+| 💰 **Financial Management Platform** 🔒 | Flutter · Django | Transaction tracking and financial activity management |
+| 📊 **Big Data & Analytics** 🔒 | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
 | 📚 **[Data Mining Book Code](https://github.com/adelazzi/data-mining-codes-for-book)** | Python · scikit-learn | Companion code for *First Step in Data Mining* |
+
+<sub>🔒 Private client/company work — source not public. Demos available on request.</sub>
 
 ---
 
@@ -102,14 +104,6 @@ class AdelAzzi {
 - [ ] **Data Engineering** — Python ETL pipelines, Airflow, Docker *(in progress)*
 - [ ] **Big Data** — Spark at scale, data lakes *(in progress)*
 - [ ] **Goal** — designing distributed data platforms
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
