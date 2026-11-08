@@ -5,10 +5,12 @@
 **Software Engineer** crafting production mobile apps with **Flutter & Django**,<br/>
 and engineering my way into **scalable data systems** through an HPC background.
 
+📍 MSc Software Engineering @ **Innopolis University**, Russia
+
 <a href="https://adelazzi.github.io/My_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/adelazzi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<!-- Add your LinkedIn / email here -->
-<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="YOUR-LEANPUB-LINK"><img src="https://img.shields.io/badge/My%20Book-Leanpub-1F2937?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 
 </div>
 
@@ -20,10 +22,13 @@ and engineering my way into **scalable data systems** through an HPC background.
 class AdelAzzi {
   final role       = "Flutter Developer → Data Engineer";
   final experience = "Production mobile apps shipped to real users";
-  final education  = "M1 High Performance Computing @ USTHB (ranked 3rd)";
+  final education  = [
+    "MSc Software Engineering @ Innopolis University (in progress)",
+    "M1 High Performance Computing @ USTHB (ranked 3rd)",
+  ];
   final author     = "First Step in Data Mining (2025)";
-  final languages  = ["Arabic", "French", "English", "Russian"];
-  final learning   = ["Apache Spark", "Data Pipelines", "Distributed Systems", "Cloud"];
+  final languages  = ["Arabic", "French", "English", "Russian (intermediate)"];
+  final learning   = ["Apache Spark", "Airflow", "Data Pipelines", "Distributed Systems"];
 }
 ```
 
@@ -58,7 +63,7 @@ class AdelAzzi {
 ### 💼 Experience
 
 **Full-Stack Developer — Hoska Dev** · *2023 – 2025*
-- Shipped production Flutter apps including **Faz**, **GIMDZ**, and **Eswing / Olivia**
+- Shipped production Flutter apps: **[Faz](STORE-LINK)**, **[GIMDZ](STORE-LINK)**, **[Eswing / Olivia](STORE-LINK)**
 - Integrated Django REST APIs and implemented pixel-accurate UIs from Figma
 - Improved app performance, state management (GetX / BLoC), and data workflows
 
@@ -72,28 +77,31 @@ class AdelAzzi {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🎓 **School Management Platform** | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
-| 🚚 **Delivery Optimization System** | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
-| 💰 **Financial Management Platform** | Flutter · Django | Transaction tracking and financial activity management |
-| 📊 **Big Data & Analytics** | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
+| 🎓 **[School Management Platform](https://github.com/adelazzi/REPO-NAME)** | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
+| 🚚 **[Delivery Optimization System](https://github.com/adelazzi/REPO-NAME)** | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
+| 💰 **[Financial Management Platform](https://github.com/adelazzi/REPO-NAME)** | Flutter · Django | Transaction tracking and financial activity management |
+| 📊 **[Big Data & Analytics](https://github.com/adelazzi/REPO-NAME)** | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
+| 📚 **[Data Mining Book Code](https://github.com/adelazzi/data-mining-codes-for-book)** | Python · scikit-learn | Companion code for *First Step in Data Mining* |
 
 ---
 
 ### 🎓 Education & Publication
 
+- **MSc Software Engineering** — Innopolis University, Russia · *in progress*
 - **M1 High Performance Computing** — USTHB · *2024 – 2025* · ranked 3rd in class<br/>
   <sub>Parallel computing · Distributed systems · Hadoop · Spark · RISC-V</sub>
 - **B.Sc. Computer Science** — USTHB · *2020 – 2024*
-- 📚 **Author of *First Step in Data Mining*** — Leanpub, 2025 <!-- add book link -->
+- 📚 **Author of [*First Step in Data Mining*](YOUR-LEANPUB-LINK)** — Leanpub, 2025
 
 ---
 
 ### 📈 Roadmap
 
-```
-Flutter ──► Backend & APIs ──► Python Data Engineering ──► Big Data ──► Distributed Data Platforms
-   ✅              ✅                    🔄                     🔄                  🎯
-```
+- [x] **Mobile** — Flutter apps in production
+- [x] **Backend** — Django REST APIs, PostgreSQL
+- [ ] **Data Engineering** — Python ETL pipelines, Airflow, Docker *(in progress)*
+- [ ] **Big Data** — Spark at scale, data lakes *(in progress)*
+- [ ] **Goal** — designing distributed data platforms
 
 ---
 
@@ -101,9 +109,6 @@ Flutter ──► Backend & APIs ──► Python Data Engineering ──► Big
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=adelazzi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
