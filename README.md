@@ -65,6 +65,7 @@ class AdelAzzi {
 **Full-Stack Developer — Hoska Dev** · *2023 – 2025*
 - Shipped production Flutter apps: **Faz**, **GIMDZ**, **Eswing / Olivia**
 - Integrated Django REST APIs and implemented pixel-accurate UIs from Figma
+- Managed and cleaned app data: validating, deduplicating, and structuring datasets for the Django backends
 - Improved app performance, state management (GetX / BLoC), and data workflows
 
 **Freelance Software Engineer** · *2023 – Present*
@@ -73,7 +74,42 @@ class AdelAzzi {
 
 ---
 
-### 🚀 Featured Projects
+### ⭐ Highlight Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💳 DH Pay
+**Fintech mobile app** · Flutter · GetX · Django
+
+- Wallet flows: **top-up, send money, QR payments**
+- Digital product store with dynamic purchase forms
+- Admin dashboard for product & order management
+- Performance work: smooth animations, image optimization, local caching
+
+<sub>🔒 Private client project</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📱 GIMDZ
+**Production mobile app** · Flutter · Django REST
+
+- Shipped to real users at **Hoska Dev**
+- Pixel-accurate UI implemented from Figma
+- REST API integration and state management
+- <!-- add 1–2 key features of GIMDZ here -->
+
+<sub>🔒 Private company project</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 More Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
