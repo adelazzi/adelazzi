@@ -53,52 +53,71 @@ class AdelAzzi {
 
 </div>
 
----
+<br>
 
-### 💼 Experience
+<!-- Connect With Me -->
+<h3>🤝 Let's Connect!</h3>
+<p>
+  <a href="https://linkedin.com/in/azzi-adel-2086aa260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <br><br>
+  📂 <a href="https://adelazzi.github.io/My_Portfolio/" target="_blank"><strong>My Portfolio</strong></a>
+</p>
 
-**Full-Stack Developer — Hoska Dev** · *2023 – 2025*
-- Shipped production Flutter apps including **Faz**, **GIMDZ**, and **Eswing / Olivia**
-- Integrated Django REST APIs and implemented pixel-accurate UIs from Figma
-- Improved app performance, state management (GetX / BLoC), and data workflows
+<!-- Skills Section -->
+<h2>⚡ Tech Arsenal</h2>
 
-**Freelance Software Engineer** · *2023 – Present*
-- End-to-end mobile products: UI, state management, REST integration, delivery
-- Close collaboration with backend teams to ship complete, maintainable products
+<h3>🚀 Programming Languages</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
----
+<h3>🛠️ Technologies & Tools</h3>
+<p align="left">
+  <!-- Mobile & Web -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  
+  <!-- Cloud & Big Data -->
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive">
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-### 🚀 Featured Projects
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adelazzi&theme=tokyonight" alt="GitHub Streak">
+</p>
 
-| Project | Stack | Highlights |
-|---|---|---|
-| 🎓 **School Management Platform** | Flutter · DRF | Students, teachers & admin workflows in one mobile + API platform |
-| 🚚 **Delivery Optimization System** | Flutter · Django · Dijkstra | Graph-based route optimization for logistics |
-| 💰 **Financial Management Platform** | Flutter · Django | Transaction tracking and financial activity management |
-| 📊 **Big Data & Analytics** | Spark · Hadoop · Python | Large-scale data cleaning, processing & analytics workflows |
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
 
----
 
-### 🎓 Education & Publication
-
-- **M1 High Performance Computing** — USTHB · *2024 – 2025* · ranked 3rd in class<br/>
-  <sub>Parallel computing · Distributed systems · Hadoop · Spark · RISC-V</sub>
-- **B.Sc. Computer Science** — USTHB · *2020 – 2024*
-- 📚 **Author of *First Step in Data Mining*** — Leanpub, 2025 <!-- add book link -->
-
----
-
-### 📈 Roadmap
-
-```
-Flutter ──► Backend & APIs ──► Python Data Engineering ──► Big Data ──► Distributed Data Platforms
-   ✅              ✅                    🔄                     🔄                  🎯
-```
-
----
-
-### 📊 GitHub Stats
-
+<!-- Profile Views -->
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=adelazzi&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelazzi&layout=compact&theme=tokyonight&hide_border=true" />
